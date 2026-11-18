@@ -1,0 +1,5 @@
+#!/home/runner/work/python-prebuilt/python-prebuilt/Python-2.7.18/Python-2.7.18/python-build/bin/python2.7
+import sys
+from lib2to3.main import main
+
+sys.exit(main("lib2to3.fixes"))
